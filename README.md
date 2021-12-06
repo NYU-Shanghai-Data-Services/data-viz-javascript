@@ -5,8 +5,8 @@ This repository serves as a documentation of the workshop. In this workshop, we 
 
 ### Datasets
 Tokyo Olympics Data (Source: [Kaggle](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo))\
-GDP By Countries (Source: World Bank)\
-Population By Countries (Source: World Bank)
+GDP By Countries (Source: [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD))\
+Population By Countries (Source: [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL))
 
 ### How to clone this repository & run the React app
 Please find detailed instructions in the slides.
