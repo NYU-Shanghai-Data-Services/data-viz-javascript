@@ -1,86 +1,28 @@
-# Project Introduction
-This is a data visualization project created during the Data Visualization With Plotly.js Workshop at NYU Shanghai.\
-Learn more about the workshop [here](tinyurl.com/datavizworkshops).
+# Data Visualization with Plotly for JavaScript (React)
+*In-person workshop originally held at NYU Shanghai on October 21, 2021. Designed and delivered by Pamela Pan (@pamela-pan)*
 
-# Notes to Workshop Participants
-It is recommended to create your own repo and upload your code there.\
-You can find more in this [tutorial](https://code.visualstudio.com/docs/editor/github).
+This repository serves as a documentation of the workshop. In this workshop, we created an interactive data dashboard to visualize the medals data of different country in the 2020 Olympics.
 
-# Dataset
-Tokyo Olympics Data (Source: Kaggle, Arjun Prasad Sarkhel)\
+### Datasets
+Tokyo Olympics Data (Source: [Kaggle](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo))\
 GDP By Countries (Source: World Bank)\
 Population By Countries (Source: World Bank)
 
-# Credit
-This project framework was developed by Pamela Pan.
+### How to clone this repository & run the React app
+Please find detailed instructions in the slides.
 
-# Getting Started with Create React App
+### About Plotly for JavaScript
+[Plotly](https://plotly.com/graphing-libraries/) is a graphing library that binds to many languages, including JavaScript.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Built on D3.js, high interactivity by default
+- High-level library → Allows concision in code
+- Allows you to create interactive, scientific charts
 
-## Available Scripts
+![image](https://user-images.githubusercontent.com/93502896/144538947-e9344f99-71d6-4272-a31e-fe265df7151b.png)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### About React
+React is a JavaScript library for building user interfaces.
+- Declarative, easier to debug
+- Component-based, reusable (Ideally, we want to build single-responsibility, small components)
+- Fast, precise performance
+- Still using HTML, CSS, JS, but more efficiently
