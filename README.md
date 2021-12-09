@@ -1,6 +1,4 @@
 # Data Visualization with Plotly for JavaScript (React)
-*In-person workshop originally held at NYU Shanghai on October 21, 2021. Designed and delivered by Pamela Pan (@pamela-pan)*
-
 This repository serves as a documentation of the workshop. In this workshop, we created an interactive data dashboard to visualize the medals data of different country in the 2020 Olympics.
 
 ### Datasets
@@ -26,3 +24,5 @@ React is a JavaScript library for building user interfaces.
 - Component-based, reusable (Ideally, we want to build single-responsibility, small components)
 - Fast, precise performance
 - Still using HTML, CSS, JS, but more efficiently
+
+*In-person workshop originally held at NYU Shanghai on October 21, 2021. Designed and delivered by Pamela Pan (@pamela-pan)*
