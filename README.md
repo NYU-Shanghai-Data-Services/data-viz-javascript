@@ -9,7 +9,7 @@ GDP By Countries (Source: [World Bank](https://data.worldbank.org/indicator/NY.G
 Population By Countries (Source: [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL))
 
 ### How to clone this repository & run the React app
-Please find detailed instructions in the slides.
+Please find detailed instructions in the slides [(download)](https://github.com/NYU-Shanghai-Data-Services/data-viz-javascript/blob/master/Data%20Visualization%20with%20Plotly%20for%20JavaScript.pptx).
 
 ### About Plotly for JavaScript
 [Plotly](https://plotly.com/graphing-libraries/) is a graphing library that binds to many languages, including JavaScript.
